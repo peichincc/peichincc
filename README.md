@@ -8,13 +8,24 @@ I am able to connect with various stakeholders on projects and enjoy problem-sol
 
 Welcome to my README 💃💃💃
 
-
+---
 
 ### Project 👀
 
 💜 [GitDate](https://gitdate-ec8a6.web.app/) - A dating, event website for digital nomads with Gitflow and Github interface.
 
 <img src="https://user-images.githubusercontent.com/104899687/195480043-5e88af11-64e2-4d21-9a63-fd0bb35c51c0.png" width="500">
+
+---
+
+### My Toolbox
+![git](https://user-images.githubusercontent.com/104899687/195481744-3d3eda15-4e9a-4c7f-bc94-ee388b327e81.png)
+![github](https://user-images.githubusercontent.com/104899687/195481747-ace90324-dafe-469f-ab4e-fe18e967a6bf.png)
+![react](https://user-images.githubusercontent.com/104899687/195481748-c5cf4e7b-9ec6-449c-a1f2-0830c9571a9c.png)
+![js](https://user-images.githubusercontent.com/104899687/195481860-9252fc8a-b748-453c-9881-60a8042a8395.png)
+![typescript](https://user-images.githubusercontent.com/104899687/195481750-0a86efab-fd83-4c1d-91ed-11d1576e1677.png)
+![css](https://user-images.githubusercontent.com/104899687/195481741-ae528dc9-ebc0-46b4-9aa5-5ca89a3002f3.png)
+![visual-studio](https://user-images.githubusercontent.com/104899687/195481755-71182ce2-316b-4ec2-b70e-8e8fcfc9162a.png)
 
 ---
 
