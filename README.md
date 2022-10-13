@@ -2,7 +2,7 @@
 
 Hi there 👋, 
 
-💬 I’m Penny, currently working as front-end developer! 
+I’m Penny, currently working as front-end developer! 
 
 Welcome to my README 💃💃💃
 
@@ -16,7 +16,7 @@ Welcome to my README 💃💃💃
 
 ---
 
-### Let's connect!
+### Let's connect! 💬
 
 [![website](https://user-images.githubusercontent.com/104899687/195479417-c0afa0b0-b320-4746-9215-a3aa5e2ffcd3.png)](https://peichinchiang.com/)
 [![linkedin](https://user-images.githubusercontent.com/104899687/195479536-a8b8f85e-48c8-4a31-b4f6-9d98878736a8.png)](https://www.linkedin.com/in/pei-chin-chiang/)
