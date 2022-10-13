@@ -12,7 +12,7 @@ Welcome to my README 💃💃💃
 
 ### Project 👀
 
-💜 [GitDate](https://gitdate-ec8a6.web.app/) - A dating, event website for digital nomads with Gitflow and Github interface.
+💜 [GitDate](https://gitdate-ec8a6.web.app/) - A dating, event website for digital nomads with Gitflow and GitHub interface.
 
 <img src="https://user-images.githubusercontent.com/104899687/195480043-5e88af11-64e2-4d21-9a63-fd0bb35c51c0.png" width="500">
 
