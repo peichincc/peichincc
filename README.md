@@ -27,7 +27,7 @@ Welcome to my README 💃💃💃
 ![js](https://user-images.githubusercontent.com/104899687/195481860-9252fc8a-b748-453c-9881-60a8042a8395.png)
 ![typescript](https://user-images.githubusercontent.com/104899687/195481750-0a86efab-fd83-4c1d-91ed-11d1576e1677.png)
 ![css](https://user-images.githubusercontent.com/104899687/195481741-ae528dc9-ebc0-46b4-9aa5-5ca89a3002f3.png)
-![visual-studio](https://user-images.githubusercontent.com/104899687/195481755-71182ce2-316b-4ec2-b70e-8e8fcfc9162a.png)
+<img src="https://user-images.githubusercontent.com/104899687/195738462-18102447-e3e6-48c2-82a2-3d6984d3ccbc.png" width="30">
 
 ---
 
