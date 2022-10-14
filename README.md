@@ -2,7 +2,7 @@
 
 I’m Penny, currently working as a front-end developer. 
 
-Previously, as jurnalist, marketer, and community builder for over 7 years, I have worked with engineers and managed cross-border projects in France, Singapore, and the US. 
+Previously, as journalist, marketer, and community builder for over 7 years, I have worked with engineers and managed cross-border projects in France, Singapore, and the US. 
 
 I am able to connect with various stakeholders on projects and enjoy problem-solving through storytelling, in the programming language, and multiple languages (CN/EN/JP).
 
