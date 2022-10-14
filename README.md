@@ -29,13 +29,15 @@ Welcome to my README 💃💃💃
 ![css](https://user-images.githubusercontent.com/104899687/195481741-ae528dc9-ebc0-46b4-9aa5-5ca89a3002f3.png)
 <img src="https://user-images.githubusercontent.com/104899687/195738462-18102447-e3e6-48c2-82a2-3d6984d3ccbc.png" width="30">
 
+![Penny's GitHub stats](https://github-readme-stats.vercel.app/api?username=peichincc&show_icons=true&theme=radical)
+
+
 ---
 
 ### Let's connect! 💬
 
 [![website](https://user-images.githubusercontent.com/104899687/195479417-c0afa0b0-b320-4746-9215-a3aa5e2ffcd3.png)](https://peichinchiang.com/)
 [![linkedin](https://user-images.githubusercontent.com/104899687/195479536-a8b8f85e-48c8-4a31-b4f6-9d98878736a8.png)](https://www.linkedin.com/in/pei-chin-chiang/) <a href="mailto:peichin.chiang@essec.edu" ><img src="https://user-images.githubusercontent.com/104899687/195586157-b3026db1-7eb0-4f56-955c-1df63bcc99a9.png" ></a>
-
 
 
 <!--
