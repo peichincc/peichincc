@@ -16,8 +16,6 @@ Welcome to my README 💃💃💃
 
 [![website](https://user-images.githubusercontent.com/104899687/195479417-c0afa0b0-b320-4746-9215-a3aa5e2ffcd3.png)](https://gitdate-ec8a6.web.app/) [![github](https://user-images.githubusercontent.com/104899687/195481747-ace90324-dafe-469f-ab4e-fe18e967a6bf.png)](https://github.com/peichincc/GitDate)
 
-<img src="https://user-images.githubusercontent.com/104899687/195480043-5e88af11-64e2-4d21-9a63-fd0bb35c51c0.png" width="500">
-
 ---
 
 ### My Toolbox 🛠️
